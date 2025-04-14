@@ -1,3 +1,8 @@
+#Bangkitkan bilangan acak yang berdistribusi eksponensial(3)
+ dengan Inverse Tranform Method, yang amatannya berjumlah 1000.
+ bandingkan hasilnya dengan fungsi bawaan R rexp dengan
+ menggunakanhistogram(Buatkan Langkah danalgoritmanya)
+
 set.seed(123)
 n <- 1000
 lambda <- 3
